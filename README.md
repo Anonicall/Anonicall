@@ -72,7 +72,7 @@ All messages are **end-to-end encrypted** using ECDH key exchange and AES-GCM, d
 
 ## Live App
 
-**[→ Open Anonicall](https://app.anonicall.com)**
+**[→ Open Anonicall (app.anonicall.com)](https://app.anonicall.com)**
 
 No installation required. Connect your BSC wallet and start communicating privately.
 
