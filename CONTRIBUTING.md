@@ -74,8 +74,8 @@ Anonicall currently supports **10 languages**. If you notice a translation error
 
 ### Contact
 
-- **App**: [anonicall.app](https://anonicall.app)
-- **Security**: security@anonicall.app
+- **App**: [app.anonicall.com](https://app.anonicall.com)
+- **Security**: support@anonicall.com
 - **Business**: contact via the app
 
 ---
