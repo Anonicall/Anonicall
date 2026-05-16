@@ -83,6 +83,7 @@ No installation required. Connect your BSC wallet and start communicating privat
 The Anonicall whitepaper covers the technical architecture, encryption design, tokenomics, and business model in full detail.
 
 - **Whitepaper**: [app.anonicall.com/whitepaper](https://app.anonicall.com/whitepaper)
+- **Business Whitepaper**: [app.anonicall.com/whitepaper-business](https://app.anonicall.com/whitepaper-business)
 - **Repository copy**: [`WHITEPAPER.md`](./WHITEPAPER.md)
 
 ---
