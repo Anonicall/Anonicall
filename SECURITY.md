@@ -12,7 +12,7 @@
 | Latest (live app) | ✅ |
 | Older / cached versions | ❌ |
 
-We maintain a single, continuously updated production deployment at **[anonicall.app](https://anonicall.app)**. All security fixes are applied to the live platform immediately upon validation.
+We maintain a single, continuously updated production deployment at **[app.anonicall.com](https://app.anonicall.com)**. All security fixes are applied to the live platform immediately upon validation.
 
 ---
 
@@ -24,7 +24,7 @@ We take the security of Anonicall and the privacy of our users very seriously.
 
 Instead, report it responsibly via email:
 
-📧 **security@anonicall.app**
+📧 **support@anonicall.com**
 
 Please include in your report:
 - A clear description of the vulnerability
@@ -40,7 +40,7 @@ We are committed to **not taking legal action** against researchers who report v
 
 ### Scope — What is in scope
 
-- The live web application at [anonicall.app](https://anonicall.app)
+- The live web application at [app.anonicall.com](https://app.anonicall.com)
 - Authentication flow (BSC wallet signature and nonce system)
 - End-to-end encryption implementation
 - API endpoints accessible by authenticated users
@@ -92,7 +92,7 @@ Se scopri una vulnerabilità di sicurezza, **non aprire una Issue pubblica su Gi
 
 Segnalala in modo responsabile via email:
 
-📧 **security@anonicall.app**
+📧 **support@anonicall.com**
 
 Includi nella segnalazione:
 - Una descrizione chiara della vulnerabilità
@@ -107,7 +107,7 @@ Risponderemo entro **48 ore** e forniremo una tempistica per la correzione entro
 ### Ambito di Applicazione
 
 **In scope:**
-- Applicazione web live su [anonicall.app](https://anonicall.app)
+- Applicazione web live su [app.anonicall.com](https://app.anonicall.com)
 - Flusso di autenticazione tramite firma wallet BSC
 - Implementazione della cifratura end-to-end
 - Endpoint API accessibili dagli utenti autenticati
