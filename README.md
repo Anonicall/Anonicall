@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anonicall.app"><img src="https://img.shields.io/badge/Platform-Web%20App-00ff88?style=flat-square" alt="Platform"></a>
+  <a href="https://app.anonicall.com"><img src="https://img.shields.io/badge/Platform-Web%20App-00ff88?style=flat-square" alt="Platform"></a>
   <img src="https://img.shields.io/badge/Blockchain-BSC-F0B90B?style=flat-square" alt="Blockchain">
   <img src="https://img.shields.io/badge/Encryption-E2E-00ccff?style=flat-square" alt="Encryption">
   <img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square" alt="AI">
@@ -72,7 +72,7 @@ All messages are **end-to-end encrypted** using ECDH key exchange and AES-GCM, d
 
 ## Live App
 
-**[→ Open Anonicall](https://anonicall.app)**
+**[→ Open Anonicall](https://app.anonicall.com)**
 
 No installation required. Connect your BSC wallet and start communicating privately.
 
@@ -82,8 +82,8 @@ No installation required. Connect your BSC wallet and start communicating privat
 
 The Anonicall whitepaper covers the technical architecture, encryption design, tokenomics, and business model in full detail.
 
-- **Technical Whitepaper**: [anonicall.app/whitepaper](https://anonicall.app/whitepaper)
-- **Business Whitepaper**: [anonicall.app/whitepaper-business](https://anonicall.app/whitepaper-business)
+- **Technical Whitepaper**: [app.anonicall.com/whitepaper](https://app.anonicall.com/whitepaper)
+- **Business Whitepaper**: [app.anonicall.com/whitepaper-business](https://app.anonicall.com/whitepaper-business)
 - **Repository copy**: [`WHITEPAPER.md`](./WHITEPAPER.md)
 
 ---
@@ -101,14 +101,14 @@ The Anonicall whitepaper covers the technical architecture, encryption design, t
 
 ## Getting Started
 
-1. Visit **[anonicall.app](https://anonicall.app)**
+1. Visit **[app.anonicall.com](https://app.anonicall.com)**
 2. Connect your Binance Smart Chain wallet (MetaMask, Trust Wallet, or any WalletConnect-compatible wallet)
 3. Sign the authentication message — this is your identity, no account creation needed
 4. Start chatting privately
 
 ---
 
-*Per iniziare: visita [anonicall.app](https://anonicall.app), connetti il tuo wallet BSC, firma il messaggio di autenticazione e inizia a comunicare in privato.*
+*Per iniziare: visita [app.anonicall.com](https://app.anonicall.com), connetti il tuo wallet BSC, firma il messaggio di autenticazione e inizia a comunicare in privato.*
 
 ---
 
@@ -126,8 +126,8 @@ This repository is the **public presence** of Anonicall. The source code is prop
 
 ## Contact & Community
 
-- **App**: [anonicall.app](https://anonicall.app)
-- **Security reports**: security@anonicall.app
+- **App**: [app.anonicall.com](https://app.anonicall.com)
+- **Security reports**: support@anonicall.com
 - **Business & partnerships**: contact via the app
 
 ---
