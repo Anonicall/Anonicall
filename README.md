@@ -1,7 +1,7 @@
 # Anonicall
 
 <p align="center">
-  <img src="./press/logos/anonicall-logo.svg" alt="Anonicall Logo" width="340" />
+  <img src="./press/logos/anonicall-logo-positivo.png" alt="Anonicall Logo" width="340" />
 </p>
 
 <p align="center">
@@ -70,28 +70,6 @@ All messages are **end-to-end encrypted** using ECDH key exchange and AES-GCM, d
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img src="./press/screenshots/01-chat.jpg" alt="Private Chat" width="180" />
-  &nbsp;
-  <img src="./press/screenshots/02-wallet.jpg" alt="Wallet & Activity" width="180" />
-  &nbsp;
-  <img src="./press/screenshots/03-ai-assistant.jpg" alt="AI Assistant" width="180" />
-  &nbsp;
-  <img src="./press/screenshots/04-marketplace.jpg" alt="Marketplace Shop Dashboard" width="180" />
-  &nbsp;
-  <img src="./press/screenshots/05-hey-money.jpg" alt="Hey Money Payments" width="180" />
-  &nbsp;
-  <img src="./press/screenshots/06-phantom-chat.jpg" alt="Phantom Chat" width="180" />
-</p>
-
-*From left to right: Private encrypted chat · Wallet & activity · AI assistant (JARVIS) · Marketplace shop dashboard · Hey Money crypto payments · Phantom Chat anonymous encounters.*
-
-More assets (logos, brand colors, usage guidelines) are available in the [`press/`](./press/) folder.
-
----
-
 ## Live App
 
 **[→ Open Anonicall](https://anonicall.app)**
@@ -142,7 +120,7 @@ This repository is the **public presence** of Anonicall. The source code is prop
 - [`CHANGELOG.md`](./CHANGELOG.md) — User-facing release history
 - [`SECURITY.md`](./SECURITY.md) — Security policy and responsible disclosure
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md) — How to contribute feedback and reports
-- [`press/`](./press/) — Press kit: logos (SVG + PNG), brand colors, app screenshots, and usage guidelines → **[Download Press Kit](https://anonicall.app/press)**
+- [`press/`](./press/) — Official logos (PNG)
 
 ---
 
